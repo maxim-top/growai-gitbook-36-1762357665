@@ -58,7 +58,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2025 Claude Code Plus | <a href='/' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "© 2025 Claude Code Plus | <a href='https://www.claudecode.plus' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -117,7 +117,7 @@
         "logo": {
             "logo": "/assets/logo.png",
             "logoStyle": "height: 35px;align: left;",
-            "url": "/"
+            "url": "https://www.claudecode.plus"
         },
         "intopic-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3",
