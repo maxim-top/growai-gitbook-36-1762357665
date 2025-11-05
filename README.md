@@ -1,9 +1,3 @@
-# GrowAI Gitbook
+# Claude Code Plus    
 
-GrowAI Gitbook，是为蓝莺GrowAI创建的Gitbook模板，在基础的Gitbook工程中增加了蓝莺GrowAI支持。🚀🚀🚀 
-
-## 快速开始
-
-免费注册试用 [蓝莺GrowAI](https://www.lanyingim.com) 🤖🔍🐦
-
-登录控制台 -> 选择DemoAPP -> 进入AI智能版块 -> 开通GrowAI服务。
+本网站为专门收集Claude Code相关新闻与使用指南，如有需要，请直接访问[Claude Code](https://www.claude.com/product/claude-code)，或者专业模型服务提供商。
